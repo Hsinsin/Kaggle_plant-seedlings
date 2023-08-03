@@ -23,6 +23,5 @@ Use the trained model to test and generate `submission.csv`.
 blue = train, red = validation
 ![](https://hackmd.io/_uploads/ryQPcmKoh.png)
 
-
 ## Score on Kaggle
 ![](https://hackmd.io/_uploads/BJQDuR_o2.png)
