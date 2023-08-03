@@ -20,7 +20,7 @@ And store the training model for every 10 epochs in the checkpoints folder, and 
 3. python submit.py
 Use the trained model to test and generate `submission.csv`.
 ## loss && accuracy
-blue = train, red = validation
+###### blue = train, red = validation
 ![](results.png)
 
 ## Score on Kaggle
