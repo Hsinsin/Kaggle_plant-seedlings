@@ -21,7 +21,7 @@ And store the training model for every 10 epochs in the checkpoints folder, and 
 Use the trained model to test and generate `submission.csv`.
 ## loss && accuracy
 blue = train, red = validation
-![](https://hackmd.io/_uploads/ryQPcmKoh.png)
+![](results.png)
 
 ## Score on Kaggle
 ![](https://hackmd.io/_uploads/BJQDuR_o2.png)
