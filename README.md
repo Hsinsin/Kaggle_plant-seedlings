@@ -4,11 +4,8 @@
 Classification of plant seedlings using `Resnet50` and pytorch. In this case, the FC layer has been changed to class=12.
 
 ## Requirements
-* pip install easydict==1.8
-* pip install pandas
-* pip install torch torchvision torchaudio
-* pip install numpy
-* pip install matplotlib
+pip install requirements.txt
+
 ## Execution
 1. python preprocess.py
 
