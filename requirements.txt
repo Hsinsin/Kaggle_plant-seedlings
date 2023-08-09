@@ -1,5 +1,7 @@
-pip install easydict==1.8
-pip install pandas
-pip install torch torchvision torchaudio
-pip install numpy
-pip install matplotlib
+easydict==1.8
+pandas
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
